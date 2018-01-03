@@ -2,21 +2,23 @@
 
 ## Contents
 
-1. [Server Architecture](#)
-2. [Environment Setup](#)
-    * [Boilerplate Setup](#)
-    * [Express Setup](#)
-    * [JSX on the Server](#)
-    * [Server Side Webpack](#)
-3. [Server Configuration](#)
-    * [Rebuilding and Restarting](#)
-    * [Client Side JavaScript](#)
-    * [Client Bundles](#)
-    * [The Public Directory](#)
-4. [Refactoring](#)
-    * [Merging Webpack Config](#)
-    * [Single Script Startup](#)
-    * [Ignoring Files with Webpack](#)
+1. [Server Architecture](#1-server-architecture)
+2. [Environment Setup](#2-environment-setup)
+    * [Boilerplate Setup](#21-boilerplate-setup)
+    * [Express Setup](#22-express-setup)
+    * [JSX on the Server](#23-jsx-on-the-server)
+    * [Server Side Webpack](#24-server-side-webpack)
+3. [Server Configuration](#3-server-configuration)
+    * [Rebuilding and Restarting](#31-rebuilding-and-restarting)
+    * [Client Side JavaScript](#32-client-side-javascript)
+    * [Client Bundles](#33-client-bundles)
+    * [The Public Directory](#34-the-public-directory)
+    * [Client Bootup](#35-client-bootup)
+4. [Refactoring](#4-refactoring)
+    * [Merging Webpack Config](#41-merging-webpack-config)
+    * [Single Script Startup](#42-single-script-startup)
+    * [Ignoring Files with Webpack](#43-ignoring-files-with-webpack)
+    * [Renderer Helper](#44-renderer-helper)
     
 ---
 
