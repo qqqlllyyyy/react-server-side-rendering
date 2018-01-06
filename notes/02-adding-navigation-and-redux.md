@@ -2,19 +2,19 @@
 
 ## Contents
 
-1. [Adding Navigation](#)
-    * [Implementing React Router Support](#)
-    * [BrowserRouter vs StaticRouter](#)
-    * [Route Configuration](#)
-2. [Integrating Support for Redux](#)
-    * [The Users API](#)
-    * [Four Challenges for Redux Setup](#)
-    * [Browser Store Creation](#)
-    * [Server Store Creation](#)
-3. [Implementing Basic Action Creators and Reducers](#)
-    * [FetchUser Action Creator and the User Reducer](#)
-    * [Reducer Imports](#)
-    * [UserList Component](#)
+1. [Adding Navigation](#1-adding-navigation)
+    * [Implementing React Router Support](#11-implementing-react-router-support)
+    * [BrowserRouter vs StaticRouter](#12-browserrouter-vs-staticrouter)
+    * [Route Configuration](#13-route-configuration)
+2. [Integrating Support for Redux](#2-integrating-support-for-redux)
+    * [The Users API](#21-the-users-api)
+    * [Four Challenges for Redux Setup](#22-four-challenges-for-redux-setup)
+    * [Browser Store Creation](#23-browser-store-creation)
+    * [Server Store Creation](#24-server-store-creation)
+3. [Implementing Basic Action Creators and Reducers](#3-implementing-basic-action-creators-and-reducers)
+    * [FetchUser Action Creator and the User Reducer](#31-fetchuser-action-creator-and-the-user-reducer)
+    * [Reducer Imports](#32-reducer-imports)
+    * [UserList Component](#33-userlist-component)
     
   
 ---
